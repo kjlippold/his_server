@@ -1,0 +1,10 @@
+name: his_server
+
+channels:
+  - conda-forge
+
+dependencies:
+  - python=3.10
+  - celery=5.2.7
+  - django=4.1
+  - django-ninja=0.19.1
